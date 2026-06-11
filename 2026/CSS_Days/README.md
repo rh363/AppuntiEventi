@@ -1,15 +1,15 @@
 ## Persone
 
 - Andrea De carolis — Grusp · Master of Ceremonies
-- Emiliano Pisu  — Dev Dojo · Senior Design Engineer — Back to CSS
-- Chiara Cielo Longobardi — · Designer — Un focus sul focus
-- Marco Pollacci — 40 Factory · Senior Frontend Developer — Meno build, più runtime: creare un Design System flessibile con il CSS di oggi
-- Tamer Abdel Maaboud — Citynews SPA · UX | Frontend dev — L’Effetto Farfalla nel CSS
-- Luca Ucciero — Freelance (Devpunks) · Senior Frontend Engineer — Oklab Color Space
-- Giulia Laco — WebMatter · Web designer/typographer e Web developer — Perchè mi piacciono così tanto i font variabili
--  Giacomo  Zinetti — · — Contro il mito della disruption: CSS e il valore di ciò che dura
-- Davide Di Pumpo — Freelance (Ex Amazon) · Senior Frontend Developer — Resilienza: farsi una doccia con il CSS
-- Andrea Verlicchi — SpeedKit · Google Developer Experts — Ehi Gemini, sistema il CSS! Parlare con i DevTools in linguaggio naturale
+- Emiliano Pisu  — Dev Dojo · Senior Design Engineer — [Back to CSS](#back-to-css)
+- Chiara Cielo Longobardi — · Designer — [Un focus sul focus](#un-focus-sul-focus)
+- Marco Pollacci — 40 Factory · Senior Frontend Developer — [Meno build, più runtime: creare un Design System flessibile con il CSS di oggi](#meno-build-più-runtime-creare-un-design-system-flessibile-con-il-css-di-oggi)
+- Tamer Abdel Maaboud — Citynews SPA · UX | Frontend dev — [L’Effetto Farfalla nel CSS](#leffetto-farfalla-del-css)
+- Luca Ucciero — Freelance (Devpunks) · Senior Frontend Engineer — [Oklab Color Space](#oklab-color-space)
+- Giulia Laco — WebMatter · Web designer/typographer e Web developer — [Perchè mi piacciono così tanto i font variabili](#perchè-mi-piacciono-così-tanto-i-font-variabili)
+-  Giacomo  Zinetti — · — [Contro il mito della disruption: CSS e il valore di ciò che dura](#contro-il-mito-della-disruption-css-e-il-valore-di-ciò-che-dura)
+- Davide Di Pumpo — Freelance (Ex Amazon) · Senior Frontend Developer — [Resilienza: farsi una doccia con il CSS](#resilienza-farsi-una-doccia-con-il-css)
+- Andrea Verlicchi — SpeedKit · Google Developer Experts — [Ehi Gemini, sistema il CSS! Parlare con i DevTools in linguaggio naturale](#ehi-gemini-sistema-il-css-parlare-con-i-devtools-in-linguaggio-naturale)
 
 ## Talks
 

@@ -29,7 +29,7 @@ Future feature (entro fine anno):
 	- una funziona ha solo una return o delle media query e poi una return
 	- si può usare una if dentro le funzioni
 
-![[BacktoCss.jpeg]]
+![BacktoCss](imgs/BacktoCss.jpeg)
 
 ### Un focus sul focus
 
@@ -38,7 +38,7 @@ Future feature (entro fine anno):
 	- controllare sempre il contrasto (3:1 necessario)
 		- sia per sfondo di pagina sia per elementi adiacenti
 	- si può valutare indicatore di default del browser
-![[FocusAAA.jpeg]]
+![FocusAAA](imgs/FocusAAA.jpeg)
 
 - gestire sempre i focus nei popup
 - gestire focus nei sottomenu
@@ -49,7 +49,7 @@ Plugin utili per i controlli:
 
 #### Slide
 
-![[FocusSlideQR.jpeg]]
+![FocusSlideQR](imgs/FocusSlideQR.jpeg)
 
 ### Meno build, più runtime: creare un Design System flessibile con il CSS di oggi
 
@@ -57,25 +57,25 @@ Plugin utili per i controlli:
 
 - @layer (gestire la cascata in maniera esplicita)
 - @scope (isolare un subtree del DOM per lo styling)
-![[Scope.jpeg]]
+![Scope](imgs/Scope.jpeg)
 - @property
 - color-mix (prende due colori e li mergia — Utile per calcolare varianti darken e lighter)
 - relative-color
 - clamp
-![[Clamp.jpeg]]
+![Clamp](imgs/Clamp.jpeg)
 - container query
 - :has()
 
 #### Feature non ancora esistenti
 
 - query a style property — manca firefox
-![[QueryACustomProperty.jpeg]]
+![QueryACustomProperty](imgs/QueryACustomProperty.jpeg)
 - if()
 	- solo inline value :( niente blocchi di css
 
 #### Slide
 
-![[MenoBuildSlide.jpeg]]
+![MenoBuildSlide](imgs/MenoBuildSlide.jpeg)
 
 ### L'effetto farfalla del CSS
 
@@ -94,11 +94,11 @@ Plugin utili per i controlli:
 
 #### HUE Wheel
 
-![[HUEWheel.jpeg]]
+![HUEWheel](imgs/HUEWheel.jpeg)
 
 #### Slide
 
-![[ColorsSlide.jpeg]]
+![ColorsSlide](imgs/ColorsSlide.jpeg)
 
 ### Perchè mi piacciono così tanto i font variabili
 
@@ -109,12 +109,12 @@ Plugin utili per i controlli:
 - AI come strumento intermedio per evitare le dipendenze
 #### Slide
 
-![[CSSDisruption.jpeg]]
+![CSSDisruption](imgs/CSSDisruption.jpeg)
 ### Resilienza: farsi una doccia con il CSS
 
 #### Slide
 
-![[CSSShower.jpeg]]
+![CSSShower](imgs/CSSShower.jpeg)
 
 ### Ehi Gemini, sistema il CSS! Parlare con i DevTools in linguaggio naturale
 
@@ -141,7 +141,7 @@ Come funziona?
 - L'agente controlla il browser con Puppeteer
 	- Sessione privata e isolata
 
-![[ChromeDevTools.jpeg]]
+![ChromeDevTools](imgs/ChromeDevTools.jpeg)
 
 #### Slide ?
 - **:( Sul suo sito**

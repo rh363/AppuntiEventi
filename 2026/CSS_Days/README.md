@@ -5,7 +5,7 @@
 - Chiara Cielo Longobardi — · Designer — Un focus sul focus
 - Marco Pollacci — 40 Factory · Senior Frontend Developer — Meno build, più runtime: creare un Design System flessibile con il CSS di oggi
 - Tamer Abdel Maaboud — Citynews SPA · UX | Frontend dev — L’Effetto Farfalla nel CSS
-- Luca Ucciero — Freelance (Devpunks) · Senior Frontend Engineer — Oklab Color Spacehttps://dl.rockylinux.org/pub/rocky/10/images/x86_64/Rocky-10-EC2-Base-10.2-20260525.0.x86_64.qcow2
+- Luca Ucciero — Freelance (Devpunks) · Senior Frontend Engineer — Oklab Color Space
 - Giulia Laco — WebMatter · Web designer/typographer e Web developer — Perchè mi piacciono così tanto i font variabili
 -  Giacomo  Zinetti — · — Contro il mito della disruption: CSS e il valore di ciò che dura
 - Davide Di Pumpo — Freelance (Ex Amazon) · Senior Frontend Developer — Resilienza: farsi una doccia con il CSS
